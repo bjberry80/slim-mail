@@ -18,8 +18,8 @@ android {
         applicationId = "slim.mail"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
-        versionCode = 4
-        versionName = "0.1.3"
+        versionCode = 5
+        versionName = "0.2.0"
     }
 
     // Release-Schlüssel liegt in release/ (nicht im Git). Fehlt er, lässt sich

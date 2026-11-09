@@ -2,7 +2,13 @@
 
 Ein schlanker Android-Mail-Client mit ruhiger, aufgeräumter Bedienung, für eigene IMAP/SMTP-Postfächer (entwickelt und getestet mit mailbox.org). Lizenz: [GPL-3.0](LICENSE). Paket: `slim.mail`.
 
-Stand: 09.11.2026, Version 0.1.3 (Testphase, noch nicht im Play Store).
+Stand: 09.11.2026, Version 0.2.0 (Testphase).
+
+## Installieren
+
+- APK von der [Release-Seite](https://github.com/bjberry80/slim-mail/releases/latest) laden und installieren (Android 8 oder neuer)
+- Automatische Updates: in [Obtainium](https://github.com/ImranR98/Obtainium) die Adresse `https://github.com/bjberry80/slim-mail` hinzufügen
+- Signatur-Fingerabdruck (SHA-256) zum Prüfen: `0A:54:EB:76:7E:64:44:73:96:4D:44:9A:C0:C8:E7:29:FA:19:AC:15:8F:2A:6B:CF:48:5D:E9:3A:05:5F:18:E2`
 
 ## Funktionen
 
