@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Platzhalter: weißer Briefumschlag. 108-dp-Raster, Motiv innerhalb der
+     66-dp-Sicherheitszone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38h44a4,4 0,0 1,4 4v24a4,4 0,0 1,-4 4h-44a4,4 0,0 1,-4 -4v-24a4,4 0,0 1,4 -4z" />
+    <path
+        android:strokeColor="#007AFF"
+        android:strokeWidth="3"
+        android:strokeLineJoin="round"
+        android:pathData="M30,41l24,17l24,-17" />
+</vector>

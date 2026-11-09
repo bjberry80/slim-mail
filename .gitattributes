@@ -1,0 +1,5 @@
+* text=auto
+# Shell-Skript muss LF behalten, sonst läuft es unter Linux nicht
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary

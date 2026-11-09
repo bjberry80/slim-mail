@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Nur geladene Anhänge dürfen an andere Apps weitergegeben werden -->
+<paths>
+    <cache-path name="attachments" path="attachments/" />
+</paths>

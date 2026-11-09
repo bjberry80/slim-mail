@@ -1,0 +1,15 @@
+.gradle/
+.idea/
+.kotlin/
+build/
+local.properties
+*.iml
+captures/
+.claude/
+release/
+
+# Persönliche Arbeitsdateien, nicht Teil des Projekts
+Kontext.txt
+*.html
+idee.md
+vorschau.png
